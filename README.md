@@ -20,11 +20,11 @@ This project analyzes crime data from Los Angeles from 2020 to 2023 using Python
 
 ## 📈 Visualizations
 Example:  
-![Crime Subplots](Crimes.png)
+![Crime Subplots](multiplot_ajustado_final.png)
 
 ## 📝 Project Structure
 - `LA_Crime_Project.ipynb`: Jupyter notebook with full analysis
-- `Crimes.png`: Final multi-plot chart
+- `multiplot_ajustado_final.png`: Final multi-plot chart
 - `README.md`: This documentation
 
 ## 🚀 How to Use
