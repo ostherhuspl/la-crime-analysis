@@ -3,7 +3,7 @@
 This project analyzes crime data from Los Angeles from 2020 to 2023 using Python, Pandas, and Matplotlib.
 
 ## 📁 Dataset
-- Source: [Los Angeles Open Data Portal](https://data.lacity.org)
+- Source: [Los Angeles Open Data Portal]([https://data.lacity.org](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data))
 - File: `Crime_Data_from_2020_to_Present.csv`
 
 ## 🔧 Tools Used
